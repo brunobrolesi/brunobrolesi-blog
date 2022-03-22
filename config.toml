@@ -55,8 +55,8 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   # 
-  description = ""
-  keywords = ""
+  description = "Blog sobre tecnologia, programação e eletrônica"
+  keywords = "programação, eletrônica, engenharia"
   images = [""]
 
   enableThemeToggle = true
@@ -119,22 +119,22 @@ disableHugoGeneratorInject = false
   # Social icons
   [[params.social]]
     name = "twitter"
-    url  = "https://twitter.com/"
+    url  = "https://twitter.com/brunobrolesi"
 
   [[params.social]]
     name = "github"
-    url  = "https://github.com/"
+    url  = "https://github.com/brunobrolesi"
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/in/brunobrolesi/"
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "mailto:brunohsbrolesi@gmail.com"
 
 
-DefaultContentLanguage = "pt-br"
+defaultContentLanguage = "pt-br"
 subtitle  = "Bruno Brolesi"
 [languages]
   [languages.en]
